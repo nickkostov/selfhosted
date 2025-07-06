@@ -1,7 +1,0 @@
-# The .gitignore approach is more flexible and allows you to customize which files in the directory are ignored.
-
-# Ignore everything in this directory
-**/*
-# Do not ignore this `.gitignore` file and `.gitkeep`
-!.gitkeep
-!.gitignore
